@@ -1,4 +1,4 @@
-![logo](https://github.com/ragnarok-vp/ragnarok-vp/blob/main/VP%20Header.gif)
+![logo](https://github.com/ragnarok-vp/ragnarok-vp/blob/main/Header.gif)
 
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A aspiring Software Engineer developer from India</h3>
